@@ -11,9 +11,9 @@ Y. Andiyappan, supervisor Dr E. Grustan-Gutierrez).
 | `cathode_sizing.m` | Sizing tool: all the calculations below in one MATLAB script | 4, 5, 6 |
 | `Bare_W_Filament_Calculator.xlsx` | Bare tungsten filament: temperature, heater power, current and voltage | 4, 6 |
 | `thoriated tungsten sizing and calculation.xlsx` | Phase-2 thoriated-tungsten filament sizing (sheet `Phase2_Calc`) | 4, 6 |
-| `Langmuir_Sheet.xlsx` | Collector current and emission plateaus of the cathode test rig | 6 |
+| `Langmuir_Sheet(1).xlsx` | Collector current and emission plateaus of the cathode test rig | 6 |
 | `Hollow_Cathode_Design_Sizing_Tool_UPDATED.xlsx` | Hollow cathode sizing, validation cases and argon design | 5 |
-| `components_list.xlsx` | Full list of bought components | Appendix C |
+| `components list.xlsx` | Full list of bought components | Appendix C |
 
 ## What the tool is for
 
